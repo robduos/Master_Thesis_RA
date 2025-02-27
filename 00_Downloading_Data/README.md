@@ -6,4 +6,4 @@
 4. Download MODIS LAI : https://code.earthengine.google.com/bfa95049b25c3e84ece7b847678f9052?noload=true 
 5. Download S2 Indices : https://code.earthengine.google.com/a93a1f31af11bfb100ea48a066514bf5?noload=true 
 
-   GEE assest of the area of interest (NOBV locations) : https://code.earthengine.google.com/?asset=projects/ee-robthesis/assets/NOBV_EC_50m_SQ_buff_4326 
+   GEE asset of the area of interest (NOBV locations) : https://code.earthengine.google.com/?asset=projects/ee-robthesis/assets/NOBV_EC_50m_SQ_buff_4326 
