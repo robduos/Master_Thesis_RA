@@ -7,12 +7,9 @@
 | 01_03_Extract_OWASIS_Data | | [View Script]() |
 | 01_04_Extract_Planet_Data | Read and Filter the received Planet Inc data. Use the coordinated of the EC Towers to Identify the appropriate Pixel to extract all the SWC values from | [View Script]() |
 | 01_05_Merging_LST_LAI_S2_Data | Import all the S2, MODIS & L8_9 csv files | [View Script]() |
-| 01_06_Merging_ALL_Data | Merging individual datasets (S1 VSM CSV, S1 Backscatter, S2 OPTRAM, Planet Inc.)
- | [View Script]() |
-| 01_07_Extract_BIS_4D_Data | Extract data from BIS-4D TIFF files 
- | [View Script]() |
-| 01_08_Compute_Evapotranspiration | Compute and export the Evapotranspiration
- | [View Script]() |
+| 01_06_Merging_ALL_Data | Merging individual datasets (S1 VSM CSV, S1 Backscatter, S2 OPTRAM, Planet Inc.) | [View Script]() |
+| 01_07_Extract_BIS_4D_Data | Extract data from BIS-4D TIFF files | [View Script]() |
+| 01_08_Compute_Evapotranspiration | Compute and export the Evapotranspiration| [View Script]() |
 | 01_09_Merging_ALL_Data_V2 | Merge additional datasets (PET & ET0, BIS-4D, BOFEK to the final dataset) | [View Script]() |
 | 01_10_Computing_nighttime_NEE |  | [View Script]() |
 | 01_11_Splitting_Merged_Dataset_by Season | Divide the merged dataset into seasonal datasets  | [View Script]() |
