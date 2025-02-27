@@ -1,4 +1,4 @@
-## List python scripts used to 
+## Table of python scripts used to 
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
