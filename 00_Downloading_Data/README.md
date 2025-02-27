@@ -1,4 +1,4 @@
-## Google Earth Engine scripts used to download the relevant remotely sensed data
+## Google Earth Engine scripts used to download the remotely sensed data
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
