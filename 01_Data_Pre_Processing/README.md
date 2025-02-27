@@ -11,5 +11,5 @@
 | 01_07_Extract_BIS_4D_Data | Extract data from BIS-4D TIFF files | [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_07_Extract_BIS_4D_Data.R) |
 | 01_08_Compute_Evapotranspiration | Compute and export the Evapotranspiration| [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_08_Compute_Evapotranspiration.ipynb) |
 | 01_09_Merging_ALL_Data_V2 | Merge additional datasets (PET & ET0, BIS-4D, BOFEK to the final dataset) | [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_09_Merging_ALL_Data_V2.ipynb) |
-| 01_10_Computing_nighttime_NEE |  | [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_10_Computing_nighttime_NEE.ipynb) |
+| 01_10_Computing_nighttime_NEE | Split the merged datasets to two seasonal datasets | [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_10_Computing_nighttime_NEE.ipynb) |
 | 01_11_Splitting_Merged_Dataset_by Season | Divide the merged dataset into seasonal datasets  | [View Script](https://github.com/robduos/Master_Thesis/blob/main/01_Data_Pre_Processing/01_11_Splitting_Merged_Dataset_by%20Season.ipynb) |
