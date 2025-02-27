@@ -1,4 +1,4 @@
-## List of R and python scripts used to create the final merged dataset
+## Table of the python scripts used to create the final merged dataset
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
