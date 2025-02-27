@@ -1,4 +1,4 @@
-## Table of python scripts used to 
+## Table of python scripts used to optimize the ML model 
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
