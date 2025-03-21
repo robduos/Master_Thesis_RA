@@ -11,5 +11,5 @@
 | 01_07_Extract_Planet_Data |  | [View Script]() |
 | 01_08_Extract_BIS_4D_Data | | [View Script]() |
 | 01_09_Final_Merging |  | [View Script]() |
-| 01_10_ |  | [View Script]() |
-| 01_11_Splitting_Merged_Dataset_by Season |   | [View Script]() |
+| 01_10_Seasonal_Splitting |  | [View Script]() |
+|  |   | [View Script]() |
