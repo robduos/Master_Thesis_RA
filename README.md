@@ -1,7 +1,7 @@
 # Master Thesis Repository
  This repository contains all relevant scripts used for the Master Thesis: 
 
-**INSERT TITLE**
+**Evaluating the performance of remotely sensed soil moisture products on peatlands in the Netherlands and the impact of soil moisture on carbon fluxes**
 
 *Internal Supervisors: 1. L.Bat, 2. Z.H* 
 
