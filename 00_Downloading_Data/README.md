@@ -1,4 +1,4 @@
-## Google Earth Engine (GEE) scripts used to download the remotely sensed data (RSD)
+## Google Earth Engine (GEE) scripts used to download remotely sensed data (RSD)
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
