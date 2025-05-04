@@ -1,4 +1,4 @@
-## Table of python scripts used to optimize the ML model 
+## Table of scripts used to optimize the Boosted Regression Tree (BRT) model 
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
