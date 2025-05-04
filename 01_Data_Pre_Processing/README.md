@@ -11,5 +11,5 @@
 | 01_07_Extract_OWASIS_Data | This script extracts all three OWASIS variables from the TIFF files and exports the data as CSV files | [View Script]() |
 | 01_08_Extract_Planet_Data | This script extracts the swc & swc-qf variables from all the individual netCDF4 files and exports a merged CSV file.  | [View Script]() |
 | 01_09_Extract_BIS_4D_Data | This script extracts all variables avaiable from the BIS-4D datasets for the NOBV locations into one CSV file. | [View Script]() |
-| 01_10_Final_Merging | This script merges all the individual datasets to one pre-processed dataset | [View Script]() |
+| 01_10_Final_Merging | This script merges all the individual datasets to one pre-processed dataset. | [View Script]() |
 | 01_11_Seasonal_Splitting | This script loads the complete merged dataset, and splits the dataset to two seasonal periods. | [View Script]() |
