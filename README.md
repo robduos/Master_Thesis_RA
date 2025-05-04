@@ -3,9 +3,13 @@
 
 **Evaluating the performance of remotely sensed soil moisture products on peatlands in the Netherlands and the impact of soil moisture on carbon fluxes**
 
-*Internal Supervisors: 1. L.Bat, 2. Z.H* 
+*External Supervisor:* M.Sc. Laurent Bataille – (Wageningen University & Research)
+*Co-External Supervisor:* Dr. Zhao Hong – (Wageningen University & Research)
+*Co-External Supervisor:* Dr. Bart Kruijt – (Wageningen University & Research)
+*1st Internal Assessor:* Dr. Christian Fritz – (Radboud University) 
+*2nd Internal Assessor:* Dr. Jochem Kali (University of Duisburg-Essen)
 
-*External Supervisors:*  
+
 
 ## Repository Structure 
 
