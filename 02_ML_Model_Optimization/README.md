@@ -2,11 +2,10 @@
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
-| 02_01_Hyperparameter_Tuning  |   | [View Script]() |
-| 02_02_Feature_Selec_PCC_Analysis  |  | [View Script]() |
-| 02_03_Feature_Selec_Embedded | | [View Script]() |
-| 02_04_Feature_Selec_SBFS |  | [View Script]() |
-| 02_05_Feature_Selec_SHAP_Analysis |  | [View Script]() |
-| 02_06_Secondary_Hyperparameter_Tuning |  | [View Script]() |
-|  |  | [View Script]() |
-|  |  | [View Script]() |
+| 02_00_RQ1_Statistical_Analysis  | This script loads the complete merged dataset, perform outlier detection, compute pearson correlation coreffient and simple linear regression on the the SMC variables.  | [View Script]() |
+| 02_01_Hyperparameter_Tuning_Run_1  | This script loads a pre-processed dataset, prepares features and target variables for predicting SENTEK Soil Moisture Content (SENTEK_SMC), and optimizes a Extreme Gradient Boosting regression model using grouped cross-validation. | [View Script]() |
+| 02_02_Feature_Selec_Corr_Embedded | This script loads a pre-processed dataset, computes the pearson correlation coefficient of the features and predictors. The feature importances embedded in XGBoost are also computed.  | [View Script]() |
+| 02_03_Feature_Selec_SBFS | This script loads a pre-processed dataset, prepares features and target variables to perform sequential backward floating selection (SBFS). | [View Script]() |
+| 02_04_Feature_Selec_SHAP_Analysis | This script loads a pre-processed dataset, prepares features and target variables to perform Shapely Analysis of the selected features. | [View Script]() |
+| 02_05_Hyperparameter_Tuning_Run_2 | This script loads a pre-processed dataset, prepares the reduced selected set of features for predicting SENTEK Soil Moisture Content (SENTEK_SMC), and optimizes a Extreme Gradient Boosting regression model using grouped cross-validation. | [View Script]() |
+| 02_06_Tunned_XGB_Model | This script loads a pre-processed dataset, prepares the selected features and target variable for predicting SENTEK Soil Moisture Content (SENTEK_SMC). | [View Script]() |
