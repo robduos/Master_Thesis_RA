@@ -1,4 +1,4 @@
-## Table of scripts used to optimize the Boosted Regression Tree (BRT) model 
+## Table of scripts used to optimize and fit the Boosted Regression Tree (BRT) model 
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
