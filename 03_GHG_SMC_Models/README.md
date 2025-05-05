@@ -1,4 +1,4 @@
-## Table of scripts used to perform non-linear regression  
+## Table of script used to perform non-linear regression  
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
