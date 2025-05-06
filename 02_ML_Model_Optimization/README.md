@@ -1,4 +1,4 @@
-## Table of scripts used to optimize and fit the Boosted Regression Tree (BRT) model 
+## Table of scripts used to optimize and fit a Boosted Regression Tree (BRT) model 
 
 | Script Name | Description | Link |
 |------------|------------|-------------|
@@ -6,6 +6,6 @@
 | 02_01_Hyperparameter_Tuning_Run_1  | This script loads a pre-processed dataset, prepares features and target variables for predicting SENTEK Soil Moisture Content (SENTEK_SMC), and optimizes a Extreme Gradient Boosting regression model using grouped cross-validation. | [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_01_Hyperparameter_Tuning_Run_1.ipynb) |
 | 02_02_Feature_Selec_Corr_Embedded | This script loads a pre-processed dataset, computes the pearson correlation coefficient of the features and predictors. The feature importances embedded in XGBoost are also computed.  | [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_02_Feature_Selec_Corr_Embedded.ipynb) |
 | 02_03_Feature_Selec_SBFS | This script loads a pre-processed dataset, prepares features and target variables to perform sequential backward floating selection (SBFS). | [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_03_Feature_Selec_SBFS.ipynb) |
-| 02_04_Hyperparameter_Tuning_Run_2 | This script loads a pre-processed dataset, prepares the reduced selected set of features for predicting SENTEK Soil Moisture Content (SENTEK_SMC), and optimizes a Extreme Gradient Boosting regression model using grouped cross-validation.| [View Script]() |
-| 02_05_Feature_Selec_SHAP_Analysis | This script loads a pre-processed dataset, prepares features and target variables to perform Shapely Analysis of the selected features.| [View Script]() |
+| 02_04_Hyperparameter_Tuning_Run_2 | This script loads a pre-processed dataset, prepares the reduced selected set of features for predicting SENTEK Soil Moisture Content (SENTEK_SMC), and optimizes a Extreme Gradient Boosting regression model using grouped cross-validation.| [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_04_Hyperparameter_Tuning_Run_2.ipynb) |
+| 02_05_Feature_Selec_SHAP_Analysis | This script loads a pre-processed dataset, prepares features and target variables to perform Shapely Analysis of the selected features.| [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_05_Feature_Selec_SHAP_Analysis.ipynb) |
 | 02_06_Tunned_XGB_Model | This script loads a pre-processed dataset, prepares the selected features and target variable for predicting SENTEK Soil Moisture Content (SENTEK_SMC). | [View Script](https://github.com/robduos/Master_Thesis/blob/main/02_ML_Model_Optimization/02_06_Tunned_XGB_Model.ipynb) |
