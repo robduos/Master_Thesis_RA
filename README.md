@@ -26,7 +26,7 @@ The repository consists of *4* different folders which hosts various scripts use
 
 ## Thesis Abstract 
 
-*Insert abstract here*
+Peatlands play a critical role in the global carbon cycle, yet field-scale soil moisture and its control over carbon exchange remain difficult to map. In this study, two high-resolution microwave-based soil moisture products were evaluated against in situ probes across ten Dutch peatland sites, and a Boosted Regression Tree (BRT) model was developed incorporating remotely sensed, ground-based, and ancillary predictors.  Soil moisture content (SMC) from Planetary Variables™ outperformed Sentinel-1 in capturing moisture variability, while the optimised BRT explained 67 % of observed SMC (RMSE = 0.09 m³m⁻³). Further, a non-linear respiration model substituting water-table depth with surface moisture was related to nighttime net ecosystem exchange data, accounting for 62 % of variance and revealing a unimodal moisture respiration response. These findings demonstrate that when coupled with machine learning and process-informed modelling, high-resolution soil moisture products offer a robust framework for mapping peatland hydrology and forecasting carbon fluxes.
 
 ### 
 
